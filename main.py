@@ -37,5 +37,7 @@ def main():
     season = obdobi(mesic)
     print(season)
 
+"""
 if __name__ == "__main__":
     main()
+"""
